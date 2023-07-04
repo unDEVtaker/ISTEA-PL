@@ -1,0 +1,15 @@
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio10\obj\Debug\net7.0\Ejercicio10.csproj.AssemblyReference.cache
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio10\obj\Debug\net7.0\Ejercicio10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio10\obj\Debug\net7.0\Ejercicio10.AssemblyInfoInputs.cache
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio10\obj\Debug\net7.0\Ejercicio10.AssemblyInfo.cs
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio10\obj\Debug\net7.0\Ejercicio10.csproj.CoreCompileInputs.cache
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio10\bin\Debug\net7.0\Ejercicio10.exe
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio10\bin\Debug\net7.0\Ejercicio10.deps.json
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio10\bin\Debug\net7.0\Ejercicio10.runtimeconfig.json
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio10\bin\Debug\net7.0\Ejercicio10.dll
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio10\bin\Debug\net7.0\Ejercicio10.pdb
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio10\obj\Debug\net7.0\Ejercicio10.dll
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio10\obj\Debug\net7.0\refint\Ejercicio10.dll
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio10\obj\Debug\net7.0\Ejercicio10.pdb
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio10\obj\Debug\net7.0\Ejercicio10.genruntimeconfig.cache
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio10\obj\Debug\net7.0\ref\Ejercicio10.dll

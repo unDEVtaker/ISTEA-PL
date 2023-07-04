@@ -1,0 +1,15 @@
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio23\obj\Debug\net7.0\Ejercicio23.csproj.AssemblyReference.cache
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio23\obj\Debug\net7.0\Ejercicio23.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio23\obj\Debug\net7.0\Ejercicio23.AssemblyInfoInputs.cache
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio23\obj\Debug\net7.0\Ejercicio23.AssemblyInfo.cs
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio23\obj\Debug\net7.0\Ejercicio23.csproj.CoreCompileInputs.cache
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio23\bin\Debug\net7.0\Ejercicio23.exe
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio23\bin\Debug\net7.0\Ejercicio23.deps.json
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio23\bin\Debug\net7.0\Ejercicio23.runtimeconfig.json
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio23\bin\Debug\net7.0\Ejercicio23.dll
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio23\bin\Debug\net7.0\Ejercicio23.pdb
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio23\obj\Debug\net7.0\Ejercicio23.dll
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio23\obj\Debug\net7.0\refint\Ejercicio23.dll
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio23\obj\Debug\net7.0\Ejercicio23.pdb
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio23\obj\Debug\net7.0\Ejercicio23.genruntimeconfig.cache
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio23\obj\Debug\net7.0\ref\Ejercicio23.dll
