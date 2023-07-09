@@ -1,0 +1,15 @@
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio37\obj\Debug\net7.0\Ejercicio37.csproj.AssemblyReference.cache
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio37\obj\Debug\net7.0\Ejercicio37.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio37\obj\Debug\net7.0\Ejercicio37.AssemblyInfoInputs.cache
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio37\obj\Debug\net7.0\Ejercicio37.AssemblyInfo.cs
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio37\obj\Debug\net7.0\Ejercicio37.csproj.CoreCompileInputs.cache
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio37\bin\Debug\net7.0\Ejercicio37.exe
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio37\bin\Debug\net7.0\Ejercicio37.deps.json
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio37\bin\Debug\net7.0\Ejercicio37.runtimeconfig.json
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio37\bin\Debug\net7.0\Ejercicio37.dll
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio37\bin\Debug\net7.0\Ejercicio37.pdb
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio37\obj\Debug\net7.0\Ejercicio37.dll
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio37\obj\Debug\net7.0\refint\Ejercicio37.dll
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio37\obj\Debug\net7.0\Ejercicio37.pdb
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio37\obj\Debug\net7.0\Ejercicio37.genruntimeconfig.cache
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio37\obj\Debug\net7.0\ref\Ejercicio37.dll

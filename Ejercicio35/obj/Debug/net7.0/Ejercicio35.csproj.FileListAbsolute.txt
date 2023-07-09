@@ -1,0 +1,15 @@
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio35\obj\Debug\net7.0\Ejercicio35.csproj.AssemblyReference.cache
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio35\obj\Debug\net7.0\Ejercicio35.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio35\obj\Debug\net7.0\Ejercicio35.AssemblyInfoInputs.cache
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio35\obj\Debug\net7.0\Ejercicio35.AssemblyInfo.cs
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio35\obj\Debug\net7.0\Ejercicio35.csproj.CoreCompileInputs.cache
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio35\bin\Debug\net7.0\Ejercicio35.exe
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio35\bin\Debug\net7.0\Ejercicio35.deps.json
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio35\bin\Debug\net7.0\Ejercicio35.runtimeconfig.json
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio35\bin\Debug\net7.0\Ejercicio35.dll
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio35\bin\Debug\net7.0\Ejercicio35.pdb
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio35\obj\Debug\net7.0\Ejercicio35.dll
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio35\obj\Debug\net7.0\refint\Ejercicio35.dll
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio35\obj\Debug\net7.0\Ejercicio35.pdb
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio35\obj\Debug\net7.0\Ejercicio35.genruntimeconfig.cache
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio35\obj\Debug\net7.0\ref\Ejercicio35.dll

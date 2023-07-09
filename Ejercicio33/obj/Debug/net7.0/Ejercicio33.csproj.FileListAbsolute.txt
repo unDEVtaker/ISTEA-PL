@@ -1,0 +1,15 @@
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio33\bin\Debug\net7.0\Ejercicio33.exe
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio33\bin\Debug\net7.0\Ejercicio33.deps.json
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio33\bin\Debug\net7.0\Ejercicio33.runtimeconfig.json
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio33\bin\Debug\net7.0\Ejercicio33.dll
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio33\bin\Debug\net7.0\Ejercicio33.pdb
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio33\obj\Debug\net7.0\Ejercicio33.csproj.AssemblyReference.cache
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio33\obj\Debug\net7.0\Ejercicio33.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio33\obj\Debug\net7.0\Ejercicio33.AssemblyInfoInputs.cache
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio33\obj\Debug\net7.0\Ejercicio33.AssemblyInfo.cs
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio33\obj\Debug\net7.0\Ejercicio33.csproj.CoreCompileInputs.cache
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio33\obj\Debug\net7.0\Ejercicio33.dll
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio33\obj\Debug\net7.0\refint\Ejercicio33.dll
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio33\obj\Debug\net7.0\Ejercicio33.pdb
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio33\obj\Debug\net7.0\Ejercicio33.genruntimeconfig.cache
+D:\Programacion\unDEVtaker\C#\C#-Ejercicios\Ejercicio33\obj\Debug\net7.0\ref\Ejercicio33.dll
